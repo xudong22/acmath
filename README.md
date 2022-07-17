@@ -1,2 +1,2 @@
 # acmath
-some math compute
+A C/C++ Libray of some math compute
